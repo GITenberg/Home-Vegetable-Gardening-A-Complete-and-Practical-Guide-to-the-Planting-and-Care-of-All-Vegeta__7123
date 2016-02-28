@@ -1,0 +1,27 @@
+_repo: Home-Vegetable-Gardening-A-Complete-and-Practical-Guide-to-the-Planting-and-Care-of-All-Vegeta__7123
+creator:
+  author:
+    agent_name: Rockwell, F. F. (Frederick Frye)
+    alias: Rockwell, Frederick Frye
+    birthdate: 1884
+    deathdate: 1976
+    gutenberg_agent_id: '25351'
+    url: http://www.gutenberg.org/2009/agents/25351
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Frye_Rockwell
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetable gardening'
+- !lcc 'SB'
+- !lcsh 'Fruit-culture'
+title: "Home Vegetable Gardening\r\nA Complete and Practical Guide to the Planting\
+  \ and Care of All Vegetables, Fruits and Berries Worth Growing for Home Use"
+url: http://www.gutenberg.org/ebooks/7123
